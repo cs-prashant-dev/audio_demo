@@ -1,0 +1,275 @@
+[Speaker 1] [0.0-1.5]: Welcome to The Deep Dive.
+[Speaker 1] [1.5-4.7]: Today we're getting into a topic that you hear about
+[Speaker 1] [4.7-8.0]: everywhere, AI and automation in the workplace.
+[Speaker 1] [8.0-9.3]: Yeah, it's definitely a dozen.
+[Speaker 1] [9.3-12.0]: But, you know, forget the usual headlines about robots
+[Speaker 1] [12.0-13.6]: taking all the jobs for a minute.
+[Speaker 1] [13.6-16.4]: We found this really insightful piece in Forbes.
+[Speaker 1] [16.4-17.2]: Oh yeah.
+[Speaker 1] [17.2-21.3]: It's called Using AI and Automation to Develop the Workforce.
+[Speaker 1] [21.3-23.6]: It's by Bijun Nair, who's the president
+[Speaker 1] [23.6-26.2]: over at Assurance Global Connected Living
+[Speaker 0] [26.2-27.2]: and International.
+[Speaker 0] [27.2-28.4]: Ah, Assurance.
+[Speaker 1] [28.4-29.8]: Okay, interesting perspective.
+[Speaker 1] [29.8-30.8]: Exactly.
+[Speaker 1] [30.8-34.9]: So, our mission here is to really unpack how organizations
+[Speaker 1] [34.9-38.5]: are, well, actually using these tools, AI and automation,
+[Speaker 1] [38.5-41.6]: to make work better for employees, moving beyond
+[Speaker 0] [41.6-42.8]: just the fear factor.
+[Speaker 0] [42.8-43.8]: Right.
+[Speaker 0] [43.8-45.8]: Let's look at the positive side, the constructive angle.
+[Speaker 0] [45.8-48.4]: How can this tech actually create a more supportive work
+[Speaker 0] [48.4-49.3]: environment?
+[Speaker 0] [49.3-51.8]: Bijun Nair's view from inside a big global company
+[Speaker 0] [51.8-55.5]: like Assurance should give us some real world grounding.
+[Speaker 1] [55.5-58.4]: Okay, so first up, this idea of more supportive workplace.
+[Speaker 0] [58.4-61.5]: The article argues that automation can genuinely empower people.
+[Speaker 1] [61.5-62.5]: Empower the man.
+[Speaker 1] [62.5-66.5]: By giving the more choice, chances to grow, more autonomy
+[Speaker 0] [66.5-68.8]: and the roles, it's not just about efficiency gains
+[Speaker 0] [68.8-69.8]: for the company.
+[Speaker 0] [69.8-72.1]: Right, it's about the employee experience too.
+[Speaker 0] [72.1-74.3]: And the article points to specific areas, doesn't it?
+[Speaker 1] [74.3-75.9]: Like, warehousing, shipping.
+[Speaker 1] [75.9-77.7]: Yeah, manufacturing too.
+[Speaker 1] [77.7-81.7]: Those places with, you know, a lot of repetitive physical stuff.
+[Speaker 0] [81.7-85.6]: Nair kind of compares it to how assembly lines changed over time.
+[Speaker 0] [85.6-86.9]: That's a good parallel.
+[Speaker 0] [86.9-88.4]: It's super human heavy.
+[Speaker 1] [88.4-89.7]: Now much more automated.
+[Speaker 1] [89.7-92.9]: AI is like the next step in that evolution.
+[Speaker 1] [92.9-96.6]: Think about jobs like, I don't know, cutting open boxes all day
+[Speaker 0] [96.6-100.1]: or lifting heavy things again and again, moving stuff constantly.
+[Speaker 1] [100.1-101.6]: Yeah, that's not just dull work.
+[Speaker 1] [101.6-104.7]: It can be physically demanding, even risky sometimes.
+[Speaker 1] [104.7-105.7]: Exactly.
+[Speaker 1] [105.7-109.2]: And the piece highlights that automating those kinds of tasks is a direct way
+[Speaker 1] [109.2-110.6]: to improve safety.
+[Speaker 1] [110.6-112.3]: You take people out of harm's way.
+[Speaker 1] [112.3-113.7]: And Assurance is actually doing this.
+[Speaker 1] [113.7-116.8]: Yeah, they give specific examples using AI for stuff like
+[Speaker 0] [117.6-119.8]: checking the cause, medic condition of used phones,
+[Speaker 1] [119.8-122.0]: which can be tricky for people to judge consistently.
+[Speaker 1] [122.0-123.4]: That's interesting.
+[Speaker 1] [123.4-124.3]: What else?
+[Speaker 1] [124.3-128.4]: Also automating things like box cutting, cleaning, lifting, transport,
+[Speaker 0] [128.4-130.3]: even packaging phones for resale.
+[Speaker 0] [130.3-131.1]: Mm.
+[Speaker 1] [131.1-132.5]: And those are probably the kinds of jobs
+[Speaker 1] [132.5-134.8]: that are tough to recruit for anyway, right?
+[Speaker 1] [134.8-137.5]: Because they don't always feel like they lead anywhere skill wise.
+[Speaker 1] [137.5-139.6]: That's exactly the point Nair makes.
+[Speaker 0] [139.6-142.9]: Spending all day on repetitive, maybe risky tasks
+[Speaker 1] [142.9-145.3]: doesn't really help you build professional skills.
+[Speaker 1] [145.3-147.3]: So when automation comes in for those jobs,
+[Speaker 1] [147.3-148.6]: what happens to the people?
+[Speaker 1] [148.6-150.5]: Well, the article says it frees them up.
+[Speaker 1] [150.5-153.4]: They can be redeployed into roles that are more engaging.
+[Speaker 0] [153.4-156.0]: Roles where they can actually learn new skills, technical skills,
+[Speaker 1] [156.0-158.0]: but also more human-centric ones.
+[Speaker 1] [158.0-161.0]: Skills that offer a real path for career progression.
+[Speaker 1] [161.0-161.5]: Right.
+[Speaker 1] [161.5-163.2]: And this is key.
+[Speaker 0] [163.2-166.8]: Their experience with the old way of doing things
+[Speaker 1] [166.8-170.1]: becomes really valuable for making the automation work well.
+[Speaker 1] [170.1-172.2]: Ah, so they're not just pushed aside.
+[Speaker 1] [172.2-173.5]: Their knowledge is needed.
+[Speaker 1] [173.5-174.3]: Exactly.
+[Speaker 1] [174.3-177.5]: Nair actually calls them prompt engineers in a way.
+[Speaker 0] [177.5-179.6]: They're the ones who understand the nuances
+[Speaker 1] [179.6-182.8]: and can help fine-tune how the automated systems operate
+[Speaker 0] [182.8-184.1]: safely and efficiently.
+[Speaker 1] [184.1-185.8]: That's a really interesting way to frame it.
+[Speaker 1] [185.8-187.1]: It elevates their role.
+[Speaker 1] [187.1-191.4]: And the logical outcome of gaining these new valuable skills.
+[Speaker 1] [191.4-192.5]: Better earning potential.
+[Speaker 1] [192.5-193.3]: You got it.
+[Speaker 0] [193.3-195.5]: It creates this positive feedback loop.
+[Speaker 0] [195.5-197.5]: Automation handles the mundane.
+[Speaker 0] [197.5-199.6]: People develop in-demand skills.
+[Speaker 0] [199.6-202.0]: And that leads to better jobs and better pay.
+[Speaker 1] [202.0-204.5]: OK, that makes sense for physical automation.
+[Speaker 1] [204.5-208.6]: But what about the other big AI wave right now,
+[Speaker 0] [208.6-209.6]: generative AI?
+[Speaker 0] [209.6-210.6]: Right, Genai.
+[Speaker 0] [210.6-212.4]: But article definitely tackles that.
+[Speaker 0] [212.4-214.0]: It points out at the huge trend,
+[Speaker 0] [214.0-218.4]: referencing a Gartner report from early 2023, I think.
+[Speaker 1] [218.4-220.7]: Yeah, I remember seeing stats about the investment pouring
+[Speaker 1] [220.7-222.7]: into Genai solutions.
+[Speaker 1] [222.7-226.2]: Over $1.7 billion in the three years prior.
+[Speaker 0] [226.2-229.4]: And there's a quote in there from Mary Masalio at Gartner.
+[Speaker 1] [229.4-231.0]: She called Genai.
+[Speaker 1] [231.0-232.3]: Let me see.
+[Speaker 1] [232.3-233.8]: Not just the technology or business trend,
+[Speaker 0] [233.8-236.8]: but a profound shift in how humans and machines interact.
+[Speaker 0] [236.8-237.2]: Wow.
+[Speaker 1] [237.2-238.7]: OK, that's a big statement.
+[Speaker 1] [238.7-239.3]: It really is.
+[Speaker 1] [239.3-241.9]: And we're seeing Genai pop up a lot in customer facing roles,
+[Speaker 1] [241.9-242.2]: right?
+[Speaker 1] [242.2-244.0]: Customer service, tech support.
+[Speaker 1] [244.0-245.5]: Yeah, those sometimes.
+[Speaker 1] [245.5-247.0]: Well, we've all dealt with those chatbots
+[Speaker 0] [247.0-248.6]: that just go in circles, haven't we?
+[Speaker 0] [248.6-250.0]: Huh, definitely.
+[Speaker 0] [250.0-253.4]: But the ideal here, according to the article, is different.
+[Speaker 1] [253.4-256.0]: It's Genai acting more like a partner,
+[Speaker 1] [256.0-258.6]: a co-pilot for the human agent.
+[Speaker 0] [258.6-260.2]: Making their job easier.
+[Speaker 1] [260.2-263.2]: Hopefully, making the customer experience less painful.
+[Speaker 1] [263.2-264.0]: Exactly.
+[Speaker 1] [264.0-266.9]: And assured, again, they share their experience here.
+[Speaker 1] [266.9-270.6]: They use AI for both voice calls and chat support.
+[Speaker 1] [270.6-272.5]: OK, how does that work in practice?
+[Speaker 0] [272.5-275.9]: So the AI listens or reads the customer's input
+[Speaker 1] [275.9-278.3]: and then suggests responses in real time.
+[Speaker 1] [278.3-280.4]: The agent sees the suggestion and can
+[Speaker 0] [280.4-283.9]: decide whether to use it as is, tweak it, or ignore it.
+[Speaker 1] [283.9-286.3]: And do the agents actually use the suggestions?
+[Speaker 1] [286.3-287.4]: Apparently, yes.
+[Speaker 1] [287.4-289.4]: The article says they use the AI suggestions
+[Speaker 1] [289.4-291.0]: about 80% of the time.
+[Speaker 0] [291.0-291.8]: 80%.
+[Speaker 0] [291.8-292.8]: Wow, that's high.
+[Speaker 1] [292.8-294.6]: That suggests it's genuinely helpful.
+[Speaker 1] [294.6-295.4]: It seems so.
+[Speaker 1] [295.4-297.5]: And the impact doubled productivity.
+[Speaker 0] [297.5-298.0]: Doubled.
+[Speaker 0] [298.0-298.6]: Yep.
+[Speaker 0] [298.6-302.2]: And customer satisfaction saw a 9%-a-degpoint jump.
+[Speaker 1] [302.2-303.3]: That's pretty significant.
+[Speaker 1] [303.3-304.0]: That really is.
+[Speaker 1] [304.0-305.5]: That's not just tinkering around the edges.
+[Speaker 1] [305.5-306.4]: You're no kidding.
+[Speaker 1] [306.4-307.8]: And for voice agents, there's more.
+[Speaker 1] [307.8-309.7]: They get a real-time transcript of the call.
+[Speaker 1] [309.7-310.5]: Oh, that's smart.
+[Speaker 0] [310.5-313.0]: So the customer doesn't have to repeat everything five times.
+[Speaker 1] [313.0-313.6]: Right.
+[Speaker 1] [313.6-315.6]: And the agent isn't scrambling to take notes.
+[Speaker 1] [315.6-317.0]: They can focus more.
+[Speaker 1] [317.0-321.3]: They also use AI bots to gather info needed for claims
+[Speaker 0] [321.3-323.4]: before the agent even gets involved.
+[Speaker 0] [323.4-325.2]: Streamlining that whole process.
+[Speaker 0] [325.2-326.2]: Massively.
+[Speaker 0] [326.2-328.4]: The article says it cut the time needed
+[Speaker 0] [328.4-333.6]: to gather that initial info from 48 hours down to less than 15 minutes.
+[Speaker 1] [333.6-335.1]: 48 hours to 15 minutes.
+[Speaker 1] [335.1-336.3]: That's incredible.
+[Speaker 1] [336.3-338.4]: Especially for something like a broken phone,
+[Speaker 0] [338.4-340.3]: you want that sorted fast.
+[Speaker 0] [340.3-340.8]: Yeah.
+[Speaker 0] [340.8-341.3]: Absolutely.
+[Speaker 0] [341.3-343.5]: People rely on those devices so much.
+[Speaker 0] [343.5-346.3]: So if you tie all this together, the Gen AI tools,
+[Speaker 1] [346.3-349.0]: the automation, the article connects it
+[Speaker 1] [349.0-352.4]: not just to efficiency, but also to employee morale.
+[Speaker 0] [352.4-353.5]: Makes sense.
+[Speaker 0] [353.5-356.4]: If the tools make your job less frustrating and more effective
+[Speaker 1] [356.4-358.5]: and maybe move you into more satisfying tasks.
+[Speaker 1] [358.5-359.0]: Yeah.
+[Speaker 1] [359.0-360.2]: It leads to a better work environment,
+[Speaker 1] [360.2-363.8]: happier employees alongside those improved customer satisfaction
+[Speaker 0] [363.8-364.4]: scores.
+[Speaker 0] [364.4-364.7]: OK.
+[Speaker 0] [364.7-366.4]: So there are clearly benefits.
+[Speaker 1] [366.4-368.7]: But we still have to address the elephant in the room,
+[Speaker 1] [368.7-369.2]: right?
+[Speaker 1] [369.2-370.8]: The fear of job displacement.
+[Speaker 1] [370.8-371.6]: Totally.
+[Speaker 1] [371.6-373.0]: The article doesn't shy away from it.
+[Speaker 1] [373.0-374.6]: It acknowledges that fear is real.
+[Speaker 0] [374.6-379.7]: But it also argues where, quote, a long way away from AI upending how we work.
+[Speaker 1] [379.7-380.7]: Hmm.
+[Speaker 1] [380.7-381.8]: Does it say why?
+[Speaker 1] [381.8-384.3]: It draws a historical parallel.
+[Speaker 1] [384.3-387.0]: Previous big technological shifts also
+[Speaker 0] [387.0-390.6]: led to job displacement fears and some displacement did happen.
+[Speaker 1] [390.6-391.2]: True.
+[Speaker 1] [391.2-393.2]: The Industrial Revolution, computers.
+[Speaker 1] [393.2-394.5]: Right.
+[Speaker 0] [394.5-398.1]: But ultimately, those shifts also created new kinds of jobs
+[Speaker 0] [398.1-402.0]: and often led to overall improvements in working conditions, eventually.
+[Speaker 1] [402.0-403.0]: It's a complex picture.
+[Speaker 1] [403.0-405.6]: There's that quote from Economist Richard Baldwin, the article uses.
+[Speaker 1] [405.6-406.0]: Oh, yeah.
+[Speaker 0] [406.0-408.5]: The one about AI won't take your job.
+[Speaker 1] [408.5-410.8]: It's somebody using AI that will take your job.
+[Speaker 1] [410.8-411.5]: Exactly.
+[Speaker 1] [411.5-415.6]: Which puts the focus squarely on how companies implement this stuff.
+[Speaker 0] [415.6-417.1]: It's not just the tech itself.
+[Speaker 0] [417.1-418.6]: It's the strategy behind it.
+[Speaker 0] [418.6-421.5]: And based on that, the article offers three key takeaways,
+[Speaker 1] [421.5-423.2]: sort of advice for organizations.
+[Speaker 1] [423.2-423.4]: OK.
+[Speaker 1] [423.4-424.0]: What are they?
+[Speaker 1] [424.0-427.1]: First, humanize your AI.
+[Speaker 1] [427.1-429.7]: Basically, involve your employees from the get-go.
+[Speaker 1] [429.7-432.1]: Let them be part of changing and reimagining
+[Speaker 1] [432.1-434.0]: their own work using these tools.
+[Speaker 0] [434.0-435.8]: Don't just drop it on them from above.
+[Speaker 0] [435.8-437.1]: Make it collaborative.
+[Speaker 0] [437.1-438.7]: That feels crucial.
+[Speaker 1] [438.7-439.6]: What's number two?
+[Speaker 1] [439.6-441.8]: Second, break it down.
+[Speaker 1] [441.8-445.3]: Instead of trying to automate a whole giant process at once,
+[Speaker 1] [445.3-448.3]: look at the individual tasks within workflows,
+[Speaker 1] [448.3-452.5]: figure out which specific tasks are good fits for AI automation
+[Speaker 0] [452.5-453.9]: or just AI system.
+[Speaker 1] [453.9-454.2]: Right.
+[Speaker 1] [454.2-455.4]: Be targeted.
+[Speaker 1] [455.4-458.8]: Makes it less overwhelming, probably more likely to succeed.
+[Speaker 0] [458.8-459.4]: And the third.
+[Speaker 0] [459.4-462.2]: Third, begin with internal processes.
+[Speaker 0] [462.2-466.7]: The idea is don't unleash potentially immature AI
+[Speaker 1] [466.7-468.5]: on your customers right away.
+[Speaker 1] [468.5-471.5]: Test it, refine it, get it working well internally first.
+[Speaker 1] [471.5-472.6]: That makes a lot of sense.
+[Speaker 0] [472.6-475.0]: Manage the risk before it impacts the end user.
+[Speaker 1] [475.0-475.6]: Yeah.
+[Speaker 1] [475.6-477.5]: And alongside these practical steps,
+[Speaker 1] [477.5-481.0]: there's a strong emphasis on needing a policy for responsible AI.
+[Speaker 0] [481.0-482.5]: R-E-I, responsible AI.
+[Speaker 1] [482.5-485.4]: So thinking about the ethics, the potential harm.
+[Speaker 1] [485.4-486.2]: Exactly.
+[Speaker 1] [486.2-488.6]: Evaluating, understanding, and actively
+[Speaker 1] [488.6-491.0]: trying to counter any potential damage
+[Speaker 0] [491.0-494.1]: AI could cause to the business, to employees, to clients,
+[Speaker 0] [494.1-495.2]: it needs conscious effort.
+[Speaker 0] [495.2-497.4]: It's not just about plugging it in and hoping for the best.
+[Speaker 0] [497.4-498.0]: Definitely not.
+[Speaker 0] [498.0-500.0]: And ultimately, the article brings it back home.
+[Speaker 1] [500.0-502.5]: It concludes that no matter how fancy the tech gets,
+[Speaker 0] [502.5-504.1]: it always comes back to the people.
+[Speaker 0] [504.1-505.4]: Pretty much.
+[Speaker 0] [505.4-507.8]: A happy, supported workforce remains
+[Speaker 0] [507.8-510.4]: the most vital asset any business has.
+[Speaker 1] [510.4-514.4]: Technology is a tool, but people are the core.
+[Speaker 1] [514.4-519.0]: So summing up this deep dive into B.J. Nare's perspective,
+[Speaker 1] [519.0-521.8]: it seems the big message is that AI and automation
+[Speaker 1] [521.8-523.8]: aren't inherently bad for workers.
+[Speaker 1] [523.8-524.6]: Right.
+[Speaker 1] [524.6-528.1]: If you project thoughtfully, focusing on the employee experience,
+[Speaker 0] [528.1-529.8]: it can genuinely enhance jobs,
+[Speaker 0] [529.8-533.7]: boost satisfaction, improve skills, and increase productivity.
+[Speaker 1] [533.7-536.0]: It's about empowerment, not just replacement.
+[Speaker 1] [536.0-538.3]: A much more optimistic take than you often hear.
+[Speaker 1] [538.3-538.9]: Yeah.
+[Speaker 1] [538.9-540.4]: Definitely provides food for thought.
+[Speaker 0] [540.4-542.3]: And on that note, here's something for you,
+[Speaker 1] [542.3-543.5]: the listener, to think about.
+[Speaker 1] [543.5-545.7]: Consider your own work, your industry.
+[Speaker 1] [545.7-548.6]: What kinds of tasks currently take up human time and energy
+[Speaker 1] [548.6-552.5]: that maybe could be transformed by AI or automation?
+[Speaker 1] [552.5-554.1]: It not just transformed, but transformed
+[Speaker 1] [554.1-556.3]: in a way that frees people up for more complex,
+[Speaker 1] [556.3-558.4]: more meaningful, maybe more creative work.
+[Speaker 1] [558.4-559.1]: Exactly.
+[Speaker 1] [559.1-561.2]: How could taking that human first approach
+[Speaker 1] [561.2-563.6]: to implementing AI like the article suggests
+[Speaker 1] [563.6-566.7]: lead to maybe unexpected benefits for everyone involved?
+[Speaker 1] [566.7-568.0]: Lots to chew on there.
+[Speaker 1] [568.0-568.9]: Indeed.
+[Speaker 1] [568.9-571.1]: Thanks for joining us for this deep dive.
