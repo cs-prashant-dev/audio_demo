@@ -1,0 +1,205 @@
+SPEAKER_00 (0.00 - 1.12): Welcome to the Deep Dive.
+SPEAKER_00 (1.50 - 7.92): Today, we're getting into a topic that you hear about everywhere, AI and automation in the workplace.
+SPEAKER_00 (8.10 - 9.16): Yeah, it's definitely buzzing.
+SPEAKER_01 (9.32 - 13.10): But, you know, forget the usual headlines about robots taking all the jobs for a minute.
+SPEAKER_00 (13.52 - 16.14): We found this really insightful piece in Forbes.
+SPEAKER_00 (16.32 - 16.58): Oh, yeah.
+SPEAKER_00 (16.64 - 20.72): It's called Using AI and Automation to Develop the Workforce.
+SPEAKER_00 (21.40 - 26.78): It's by Biju Nair, who's the president over at Assurant Global Connected Living and International.
+SPEAKER_01 (27.16 - 28.26): Ah, Assurant.
+SPEAKER_01 (28.40 - 29.58): Okay, interesting perspective.
+SPEAKER_01 (29.58 - 30.00): Exactly.
+SPEAKER_00 (30.52 - 37.98): So our mission here is to really unpack how organizations are, well, actually using these tools, AI and automation,
+SPEAKER_00 (38.22 - 42.72): to make work better for employees, moving beyond just the fear factor.
+SPEAKER_01 (42.88 - 43.00): Right.
+SPEAKER_01 (43.08 - 45.24): Let's look at the positive side, the constructive angle.
+SPEAKER_01 (45.90 - 48.68): How can this tech actually create a more supportive work environment?
+SPEAKER_01 (49.34 - 54.96): Biju Nair's view from inside a big global company like Assurant should give us some, you know, real-world grounding.
+SPEAKER_00 (55.40 - 57.92): Okay, so first up, this idea of a more supportive workplace.
+SPEAKER_00 (57.92 - 59.42): The article argues that automation...
+SPEAKER_00 (59.58 - 61.44): ...can genuinely empower people.
+SPEAKER_00 (61.52 - 61.94): Empower them.
+SPEAKER_00 (62.18 - 69.34): By giving them more choice, chances to grow, more autonomy in their roles, it's not just about efficiency gains for the company.
+SPEAKER_00 (69.48 - 71.56): Right, it's about the employee experience, too.
+SPEAKER_01 (71.74 - 74.14): And the article points to specific areas, doesn't it?
+SPEAKER_01 (74.16 - 75.76): Like warehousing, shipping.
+SPEAKER_01 (76.08 - 77.42): Yeah, manufacturing, too.
+SPEAKER_00 (77.54 - 81.06): Those places with, you know, a lot of repetitive physical stuff.
+SPEAKER_00 (81.68 - 85.32): Nair kind of compares it to how assembly lines changed over time.
+SPEAKER_00 (85.42 - 86.14): That's a good parallel.
+SPEAKER_01 (86.14 - 89.28): Started super human-heavy, now much more automated.
+SPEAKER_01 (89.58 - 92.38): AI is like the next step in that evolution.
+SPEAKER_00 (92.68 - 100.14): Think about jobs like, I don't know, cutting open boxes all day or lifting heavy things again and again, moving stuff constantly.
+SPEAKER_00 (100.18 - 101.54): Yeah, that's not just dull work.
+SPEAKER_01 (101.54 - 104.52): It can be physically demanding, even risky sometimes.
+SPEAKER_00 (104.58 - 105.34): Exactly.
+SPEAKER_00 (105.34 - 110.28): And the piece highlights that automating those kinds of tasks is a direct way to improve safety.
+SPEAKER_00 (110.46 - 111.96): You take people out of harm's way.
+SPEAKER_00 (112.08 - 113.58): And Assurant is actually doing this.
+SPEAKER_00 (113.64 - 119.38): Yeah, they give specific examples using AI for stuff like checking the cosmetic condition of used phones.
+SPEAKER_00 (119.38 - 119.56): Yeah. They give specific examples using AI for stuff like checking the cosmetic condition of used phones.
+SPEAKER_00 (119.58 - 121.88): Which can be tricky for people to judge consistently.
+SPEAKER_00 (121.88 - 122.58): Oh, interesting.
+SPEAKER_00 (122.58 - 123.78): What else?
+SPEAKER_01 (123.78 - 130.28): Also automating things like box cutting, cleaning, lifting, transport, even packaging phones for resale.
+SPEAKER_00 (130.28 - 134.78): And those are probably the kinds of jobs that are tough to recruit for anyway, right?
+SPEAKER_01 (134.78 - 137.38): Because they don't always feel like they lead anywhere skill-wise.
+SPEAKER_01 (137.38 - 139.38): That's exactly the point Nair makes.
+SPEAKER_00 (139.38 - 144.88): Spending all day on repetitive, maybe risky tasks doesn't really help you build professional skills.
+SPEAKER_00 (144.88 - 148.38): So when automation comes in for those jobs, what happens to the people?
+SPEAKER_01 (148.38 - 149.38): Well, the article says it works.
+SPEAKER_00 (149.38 - 150.58): The article says it frees them up.
+SPEAKER_00 (150.58 - 157.98): They can be redeployed into roles that are more engaging, roles where they can actually learn new technical skills, but also more human-centric ones.
+SPEAKER_00 (157.98 - 160.98): Skills that offer a real path for career progression.
+SPEAKER_00 (160.98 - 162.58): Right. And this is key.
+SPEAKER_00 (163.28 - 170.08): Their experience with the old way of doing things becomes really valuable for making the automation work well.
+SPEAKER_00 (170.08 - 172.08): Ah, so they're not just pushed aside.
+SPEAKER_01 (172.28 - 173.58): Their knowledge is needed.
+SPEAKER_00 (173.58 - 174.38): Exactly.
+SPEAKER_00 (174.38 - 177.38): Nair actually calls them prompt engineers in a way.
+SPEAKER_00 (177.48 - 179.18): They're the ones who understand the nuances.
+SPEAKER_00 (179.18 - 184.18): They're the ones who understand the nuances and can help fine-tune how the automated systems operate safely and efficiently.
+SPEAKER_01 (184.18 - 185.68): That's a really interesting way to frame it.
+SPEAKER_01 (185.68 - 187.18): It elevates their role.
+SPEAKER_00 (187.18 - 191.18): And, you know, the logical outcome of gaining these new valuable skills.
+SPEAKER_00 (191.18 - 192.48): Better earning potential.
+SPEAKER_01 (192.48 - 193.18): You got it.
+SPEAKER_00 (193.18 - 195.18): It creates this positive feedback loop.
+SPEAKER_00 (195.18 - 197.18): Automation handles the mundane.
+SPEAKER_00 (197.18 - 199.18): People develop in-demand skills.
+SPEAKER_00 (199.18 - 201.88): And that leads to better jobs and better pay.
+SPEAKER_00 (201.88 - 204.18): Okay. That makes sense for physical automation.
+SPEAKER_01 (204.18 - 208.58): But what about the other big AI wave right now?
+SPEAKER_01 (208.58 - 209.58): Generative AI.
+SPEAKER_00 (209.58 - 210.58): Right. Gen AI.
+SPEAKER_00 (210.58 - 212.28): The article definitely tackles that.
+SPEAKER_00 (212.28 - 213.58): It points out it's a huge trend.
+SPEAKER_00 (213.58 - 218.28): Referencing a Gartner report from early 2023, I think.
+SPEAKER_00 (218.28 - 222.08): Yeah. I remember seeing stats about the investment pouring into Gen AI solutions.
+SPEAKER_01 (222.08 - 226.08): Over $1.7 billion in the three years prior.
+SPEAKER_01 (226.08 - 229.08): And there's a quote in there from Mary Massaglio at Gartner.
+SPEAKER_00 (229.08 - 230.58): She called Gen AI.
+SPEAKER_00 (230.58 - 231.58): Let me see.
+SPEAKER_00 (231.58 - 236.58): Not just a technology or business trend, but a profound shift in how humans and machines interact.
+SPEAKER_00 (236.58 - 237.58): Wow. Okay.
+SPEAKER_01 (237.58 - 238.58): That's a big statement.
+SPEAKER_01 (238.58 - 239.08): It really is.
+SPEAKER_00 (239.08 - 242.08): And we're seeing Gen AI pop up a lot in customer-facing roles, right?
+SPEAKER_00 (242.08 - 244.08): Customer service, tech support.
+SPEAKER_01 (244.08 - 245.58): Yeah. Those sometimes.
+SPEAKER_01 (245.58 - 248.58): Well, we've all dealt with those chatbots that just go in circles, haven't we?
+SPEAKER_00 (248.58 - 250.08): Huh. Definitely.
+SPEAKER_00 (250.08 - 253.08): But the ideal here, according to the article, is different.
+SPEAKER_00 (253.08 - 258.58): It's Gen AI acting more like a partner, a co-pilot for the human agent.
+SPEAKER_00 (258.58 - 260.08): Making their job easier.
+SPEAKER_01 (260.08 - 263.08): Hopefully making the customer experience less painful.
+SPEAKER_00 (263.08 - 264.08): Exactly.
+SPEAKER_00 (264.08 - 267.08): And Assurant, again, they share their experience here.
+SPEAKER_00 (267.08 - 268.08): They use AI for both work and business.
+SPEAKER_00 (268.08 - 270.58): They use AI for both voice calls and chat support.
+SPEAKER_01 (270.58 - 272.58): Okay. How does that work in practice?
+SPEAKER_00 (272.58 - 278.08): So the AI listens or reads the customer's input and then suggests responses in real time.
+SPEAKER_00 (278.08 - 283.58): The agent sees the suggestion and can decide whether to use it as is, tweak it, or ignore it.
+SPEAKER_00 (283.58 - 286.08): And do the agents actually use the suggestions?
+SPEAKER_01 (286.08 - 287.08): Apparently, yes.
+SPEAKER_00 (287.08 - 291.08): The article says they use the AI suggestions about 80% of the time.
+SPEAKER_01 (291.08 - 292.58): 80%? Wow. That's high.
+SPEAKER_01 (292.58 - 294.58): That suggests it's genuinely helpful.
+SPEAKER_01 (294.58 - 295.58): It seems so.
+SPEAKER_00 (295.58 - 297.58): And the impact doubled productivity.
+SPEAKER_00 (297.58 - 298.58): It doubled.
+SPEAKER_00 (298.58 - 302.08): Yep. And customer satisfaction saw a 9 percentage point jump.
+SPEAKER_00 (302.08 - 303.08): That's pretty significant.
+SPEAKER_00 (303.08 - 304.08): That really is.
+SPEAKER_01 (304.08 - 305.58): That's not just tinkering around the edge.
+SPEAKER_01 (305.58 - 306.58): You're no kidding.
+SPEAKER_00 (306.58 - 307.58): And for voice agents, there's more.
+SPEAKER_00 (307.58 - 309.58): They get a real-time transcript of the call.
+SPEAKER_00 (309.58 - 310.58): Oh, that's smart.
+SPEAKER_01 (310.58 - 312.58): So the customer doesn't have to repeat everything five times.
+SPEAKER_01 (312.58 - 313.58): Right.
+SPEAKER_00 (313.58 - 315.58): And the agent isn't scrambling to take notes.
+SPEAKER_00 (315.58 - 316.58): They can focus more.
+SPEAKER_00 (316.58 - 323.58): They also use AI bots to gather info needed for claims before the agent even gets involved.
+SPEAKER_01 (323.58 - 325.08): Streamlining that whole process.
+SPEAKER_01 (325.08 - 326.08): Massively.
+SPEAKER_00 (326.08 - 326.58): Massively.
+SPEAKER_00 (326.58 - 327.58): Massively.
+SPEAKER_00 (327.58 - 333.58): And they get the time needed to gather that initial info from like 48 hours down to less than 15 minutes.
+SPEAKER_00 (333.58 - 335.08): 48 hours to 15 minutes.
+SPEAKER_01 (335.08 - 336.08): That's incredible.
+SPEAKER_01 (336.08 - 336.58): Yeah.
+SPEAKER_01 (336.58 - 340.08): Especially for something like a broken phone, you want that sorted fast.
+SPEAKER_01 (340.08 - 340.58): Yeah.
+SPEAKER_01 (340.58 - 341.58): Absolutely.
+SPEAKER_01 (341.58 - 343.58): People rely on those devices so much.
+SPEAKER_00 (343.58 - 352.08): So if you tie all this together, the Gen AI tools, the automation, the article connects it not just to efficiency but also to employee morale.
+SPEAKER_01 (352.08 - 353.08): Makes sense.
+SPEAKER_01 (353.08 - 356.58): If the tools make your job less frustrating and more effective and maybe move you into more satisfaction,
+SPEAKER_01 (356.58 - 357.58): Yeah.
+SPEAKER_01 (357.58 - 358.58): If the tools make your job less frustrating and more effective and maybe move you into more satisfying tasks.
+SPEAKER_00 (358.58 - 359.58): Yeah.
+SPEAKER_00 (359.58 - 360.58): It leads to a better work environment, happier employees, alongside those improved customer satisfaction scores.
+SPEAKER_00 (360.58 - 361.58): It leads to a better work environment, happier employees, alongside those improved customer satisfaction scores.
+SPEAKER_00 (361.58 - 362.58): It leads to a better work environment, happier employees, alongside those improved customer satisfaction scores.
+SPEAKER_00 (362.58 - 363.58): Okay.
+SPEAKER_00 (363.58 - 364.58): So there are clearly benefits, but we still have to address the elephant in the room, right?
+SPEAKER_01 (364.58 - 365.58): The fear of job displacement.
+SPEAKER_01 (365.58 - 366.58): Totally.
+SPEAKER_01 (366.58 - 367.58): The article doesn't shy away from it.
+SPEAKER_01 (367.58 - 368.58): It acknowledges that fear is real, but it also argues we're, quote, a long way away from AI upending how we work.
+SPEAKER_01 (368.58 - 369.58): Hmm.
+SPEAKER_01 (369.58 - 370.58): Does it say why?
+SPEAKER_01 (370.58 - 371.58): It draws a historical parallel.
+SPEAKER_00 (371.58 - 372.58): You know, previous big technological shifts on the AI platform, like the one we saw in the
+SPEAKER_00 (372.58 - 392.76): article 오� 언니�ік는데 She
+SPEAKER_01 (392.76 - 396.88): 하재까지 dział다 메르�oons 돈을 накра꾸고
+SPEAKER_00 (396.88 - 398.88): 일대üy 활동일 때 � А 꾤까?
+SPEAKER_00 (398.88 - 400.28): 이� 💠
+SPEAKER_00 (400.28 - 400.68): 차
+SPEAKER_00 (400.68 - 401.42): Azerbaijan
+SPEAKER_00 (401.42 - 401.84): któete
+SPEAKER_00 (401.84 - 405.54): It's a complex picture. There's that quote from economist Richard Baldwin the article uses.
+SPEAKER_01 (405.72 - 410.78): Oh, yeah, the one about AI won't take your job. It's somebody using AI that will take your job.
+SPEAKER_01 (410.88 - 415.12): Exactly, which puts the focus squarely on how companies implement this stuff.
+SPEAKER_01 (415.56 - 418.44): It's not just the tech itself. It's the strategy behind it.
+SPEAKER_00 (418.58 - 422.96): And based on that, the article offers three key takeaways, sort of advice for organizations.
+SPEAKER_00 (423.20 - 423.76): Okay, what are they?
+SPEAKER_01 (423.76 - 429.30): First, humanize your AI. Basically, involve your employees from the get-go.
+SPEAKER_00 (429.76 - 433.84): Let them be part of changing and reimagining their own work using these tools.
+SPEAKER_00 (434.06 - 437.92): Don't just drop it on them from above. Make it collaborative. That feels crucial.
+SPEAKER_01 (438.74 - 439.38): What's number two?
+SPEAKER_00 (439.70 - 447.66): Second, break it down. Instead of trying to automate a whole giant process at once, look at the individual tasks within workflows.
+SPEAKER_00 (447.94 - 453.74): Figure out which specific tasks are good fits for AI automation or just AI assistance.
+SPEAKER_01 (453.92 - 458.12): Right, be targeted. Makes it less overwhelming, probably more likely to succeed.
+SPEAKER_01 (458.74 - 459.16): And the third?
+SPEAKER_01 (459.16 - 461.48): Third, begin with internal processes.
+SPEAKER_00 (462.26 - 468.08): The idea is don't unleash potentially immature AI on your customers right away.
+SPEAKER_00 (468.56 - 471.12): Test it, refine it, get it working well internally first.
+SPEAKER_01 (471.62 - 474.92): That makes a lot of sense. Manage the risk before it impacts the end user.
+SPEAKER_01 (475.06 - 480.88): Yeah, and alongside these practical steps, there's a strong emphasis on needing a policy for responsible AI.
+SPEAKER_00 (481.10 - 482.40): REI, responsible AI.
+SPEAKER_01 (482.40 - 483.76): Okay, so thinking about the ethics.
+SPEAKER_01 (483.92 - 485.32): The potential harm.
+SPEAKER_01 (485.32 - 493.78): Exactly. Evaluating, understanding, and actively trying to counter any potential damage AI could cause to the business, to employees, to clients.
+SPEAKER_00 (493.98 - 495.12): It needs conscious effort.
+SPEAKER_01 (495.28 - 497.26): It's not just about plugging it in and hoping for the best.
+SPEAKER_00 (497.40 - 499.72): Definitely not. And ultimately, the article brings it back home.
+SPEAKER_00 (500.04 - 502.44): It concludes that no matter how fancy the tech gets.
+SPEAKER_01 (502.54 - 503.74): It always comes back to the people.
+SPEAKER_00 (504.12 - 509.94): Pretty much. A happy, supported workforce remains the most vital asset any business has.
+SPEAKER_00 (510.54 - 513.64): Technology is a tool, but people are the core.
+SPEAKER_01 (513.92 - 518.20): So, summing up this deep dive into Bijuner's perspective.
+SPEAKER_01 (519.04 - 523.74): It seems the big message is that AI and automation aren't inherently bad for workers.
+SPEAKER_01 (523.82 - 527.94): Right. If you approach it thoughtfully, focusing on the employee experience.
+SPEAKER_01 (528.08 - 533.12): It can genuinely enhance jobs, boost satisfaction, improve skills, and increase productivity.
+SPEAKER_01 (533.72 - 535.98): It's about empowerment, not just replacement.
+SPEAKER_00 (536.08 - 538.20): A much more optimistic take than you often hear.
+SPEAKER_00 (538.30 - 540.12): Yeah, definitely provides food for thought.
+SPEAKER_00 (540.42 - 543.36): And on that note, here's something for you, the listener, to think about.
+SPEAKER_00 (543.36 - 545.36): Consider your own work, your industry.
+SPEAKER_00 (545.64 - 552.46): What kinds of tasks currently take up human time and energy that maybe could be transformed by AI or automation?
+SPEAKER_00 (552.54 - 558.28): And not just transformed, but transformed in a way that frees people up for more complex, more meaningful, maybe more creative work.
+SPEAKER_00 (558.36 - 566.30): Exactly. How could taking that human first approach to implementing AI, like the article suggests, lead to maybe unexpected benefits for everyone involved?
+SPEAKER_01 (566.94 - 567.82): Lots to chew on there.
+SPEAKER_00 (567.94 - 570.48): Indeed. Thanks for joining us for this deep dive.
