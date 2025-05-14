@@ -1,0 +1,4 @@
+Host: Welcome to the market recap.
+Analyst: Thanks for having me.
+Host: What happened today?
+Analyst: The market reacted to CPI data, which came in higher than expected.
